@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/meet-the-peer/static/css/main.05dd24d6.css",
-    "main.js": "/meet-the-peer/static/js/main.8f4000fc.js",
+    "main.js": "/meet-the-peer/static/js/main.d9b7a954.js",
     "static/js/787.532d1a27.chunk.js": "/meet-the-peer/static/js/787.532d1a27.chunk.js",
     "static/media/Inter-Medium.eot": "/meet-the-peer/static/media/Inter-Medium.8701febefeb9a684fecb.eot",
     "static/media/Inter-Medium.ttf": "/meet-the-peer/static/media/Inter-Medium.2410c918aaaa7ff543e9.ttf",
@@ -22,11 +22,11 @@
     "static/media/delete.svg": "/meet-the-peer/static/media/delete.7bab022a365fe9d381410597fa903c5e.svg",
     "static/media/cross-white.svg": "/meet-the-peer/static/media/cross-white.0328da8986307a11ec9dfc99ff41e72e.svg",
     "main.05dd24d6.css.map": "/meet-the-peer/static/css/main.05dd24d6.css.map",
-    "main.8f4000fc.js.map": "/meet-the-peer/static/js/main.8f4000fc.js.map",
+    "main.d9b7a954.js.map": "/meet-the-peer/static/js/main.d9b7a954.js.map",
     "787.532d1a27.chunk.js.map": "/meet-the-peer/static/js/787.532d1a27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05dd24d6.css",
-    "static/js/main.8f4000fc.js"
+    "static/js/main.d9b7a954.js"
   ]
 }
