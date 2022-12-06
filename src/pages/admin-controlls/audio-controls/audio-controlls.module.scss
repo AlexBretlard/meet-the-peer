@@ -1,0 +1,17 @@
+.adderContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.audios {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.button {
+  width: 100%;
+  padding: 14px;
+}

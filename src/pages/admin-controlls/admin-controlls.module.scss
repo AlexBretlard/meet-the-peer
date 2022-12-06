@@ -1,0 +1,24 @@
+.page {
+  margin: 0 70px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 61px;
+  padding: 18px 0 18px 0;
+  border-bottom: 1px solid black;
+}
+.tab {
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 500;
+  color: #858c92;
+  cursor: pointer;
+}
+.activeTab {
+  color: #000000;
+}
+.content {
+  padding-top: 25px;
+}
